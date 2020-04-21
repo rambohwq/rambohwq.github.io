@@ -10,6 +10,6 @@ StackOverflow 真好用。
 
 GitHub 也好用。
 
-### Contact me
+<!-- ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com) -->
